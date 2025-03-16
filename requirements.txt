@@ -1,0 +1,7 @@
+Flask
+psycopg2
+python-dotenv
+# psql -U your_username -d demo_db -c "SELECT * FROM messages;"
+# CREATE DATABASE demo_db;
+# \c demo_db
+# CREATE TABLE messages (id SERIAL PRIMARY KEY, content TEXT);
